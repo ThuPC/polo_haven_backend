@@ -1,0 +1,12 @@
+<!-- views/profile/Profile.vue -->
+<template>
+  <div>
+    <router-view></router-view>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "Profile",
+};
+</script>
